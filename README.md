@@ -21,7 +21,7 @@ This project explores the Delaney solubility dataset using molecular descriptors
 - These metrics help quantify how well the model captures the variability of the target variable.
 
 ### 4. Data Visualization
-- We used **Matplotlib** to plot the predicted vs. actual logS values.  
+- We used **Matplotlib** to plot the predicted vs actual logS values.  
 - Scatter plots provide a visual understanding of how well the model performs and help identify trends and potential deviations.
 
 ---
